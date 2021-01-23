@@ -28,7 +28,7 @@ void loop() {
   }
 }
 int t = 5;
-//ntcnjdjq
+// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 void lamp1ON(){
   Serial.println("вкл лампы");
   digitalWrite(rele1, LOW);
